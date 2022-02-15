@@ -1,0 +1,10 @@
+E:\Personal Works\C##\Quiz\bin\Debug\Quiz.exe.config
+E:\Personal Works\C##\Quiz\bin\Debug\Quiz.exe
+E:\Personal Works\C##\Quiz\bin\Debug\Quiz.pdb
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.Form1.resources
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.exe
+E:\Personal Works\C##\Quiz\obj\Debug\Quiz.pdb
